@@ -4,12 +4,12 @@ In this project we will explore correlations between different factors that infl
 In order to run this project youll need to set up Jupyter Notebooks. I use mine through anaconda.
 
 Tables:
-eonomy_gdp (Country, year, economy_gdp)
-family (Country, year, family)
-generosity (Country, year, generosity)
-goverment_trust (Country, year, trust_government_corruption)
-health_live_expectancy (Country, year, health)
-happiness (Country, year, happiness)
+> eonomy_gdp (Country, year, economy_gdp)
+> family (Country, year, family)
+> generosity (Country, year, generosity)
+> goverment_trust (Country, year, trust_government_corruption)
+> health_live_expectancy (Country, year, health)
+> happiness (Country, year, happiness)
 
 > Python Resources:
 sqlite3 #to use SQLite language
